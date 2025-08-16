@@ -16,3 +16,8 @@ safe_positions:
     x: 100.5
     y: 70.0
     z: 100.5
+#   nether:
+#     world: "nether"
+#     x: 100.5
+#     y: 70.0
+#     z: 100.5
