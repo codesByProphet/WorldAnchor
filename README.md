@@ -6,7 +6,6 @@ Automatically returns players to a safe position when they fall!
 ## Features
 - Automatically returns players to safe positions when they fall.
 - Fully configurable safe positions via `config.yml`.
-- Ideal for lobbies, adventure maps, or spawn areas.
 
 ## Configuration Example
 
