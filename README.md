@@ -1,6 +1,7 @@
 # WorldAnchor
+Automatically returns players to a safe position when they fall!
 
-**WorldAnchor** is a PocketMine-MP 5 plugin that automatically teleports players back to predefined safe positions when they fall below the world boundary, preventing accidental deaths or getting stuck outside the world. Fully configurable safe positions make it ideal for lobbies, spawn areas, and adventure maps.
+**WorldAnchor** is a PocketMine-MP 5 plugin that automatically teleports players back to predefined safe positions when they fall below the world boundary, preventing accidental deaths or getting stuck outside the world.
 
 ## Features
 - Automatically returns players to safe positions when they fall.
